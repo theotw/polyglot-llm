@@ -1,3 +1,26 @@
+# v1.50.4 (2026-03-26)
+
+* **Bug Fix**: Fix a bug where a recorded clock skew could persist on the client even if the client and server clock ended up realigning.
+* **Dependency Update**: Updated to the latest SDK module versions
+
+# v1.50.3 (2026-03-23)
+
+* **Dependency Update**: Updated to the latest SDK module versions
+
+# v1.50.2 (2026-03-13)
+
+* **Dependency Update**: Updated to the latest SDK module versions
+
+# v1.50.1 (2026-03-03)
+
+* **Dependency Update**: Bump minimum Go version to 1.24
+* **Dependency Update**: Updated to the latest SDK module versions
+
+# v1.50.0 (2026-02-23)
+
+* **Feature**: Support bedrockruntime#InvokeModelWithBidirectionalStream by changing event stream code generation
+* **Dependency Update**: Updated to the latest SDK module versions
+
 # v1.49.0 (2026-02-04)
 
 * **Feature**: Added support for structured outputs to Converse and ConverseStream APIs.
