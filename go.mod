@@ -1,4 +1,4 @@
-module github.com/Nephrolytics-ai/polyglot-llm
+module github.com/theotw/polyglot-llm
 
 go 1.25.0
 

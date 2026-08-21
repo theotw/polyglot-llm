@@ -3,8 +3,8 @@ package huggingface
 import (
 	"errors"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/utils"
+	"github.com/theotw/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/utils"
 )
 
 const unsupportedAudioMessage = "huggingface provider does not currently support audio transcription in this library; use the openai or gemini provider"

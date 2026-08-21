@@ -3,7 +3,7 @@ package anthropic
 import (
 	"testing"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/model"
 	"github.com/stretchr/testify/suite"
 )
 

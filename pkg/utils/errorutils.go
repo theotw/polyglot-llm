@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/logging"
+	"github.com/theotw/polyglot-llm/pkg/logging"
 )
 
 // ContainsErrorSubstring checks if the error or any of its wrapped errors contain the target substring.

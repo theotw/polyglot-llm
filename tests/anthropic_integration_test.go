@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/llms/anthropic"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/llms/anthropic"
+	"github.com/theotw/polyglot-llm/pkg/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"

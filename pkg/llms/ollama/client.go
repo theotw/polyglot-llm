@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/model"
 	ollamasdk "github.com/rozoomcool/go-ollama-sdk"
 )
 

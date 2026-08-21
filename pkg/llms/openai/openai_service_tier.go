@@ -3,8 +3,8 @@ package openai
 import (
 	"fmt"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/utils"
+	"github.com/theotw/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/utils"
 	"github.com/openai/openai-go/v3/responses"
 )
 

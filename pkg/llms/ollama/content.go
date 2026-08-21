@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/logging"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/utils"
+	"github.com/theotw/polyglot-llm/pkg/logging"
+	"github.com/theotw/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/utils"
 	"github.com/invopop/jsonschema"
 	ollamasdk "github.com/rozoomcool/go-ollama-sdk"
 )

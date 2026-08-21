@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/utils"
+	"github.com/theotw/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/utils"
 )
 
 const unsupportedEmbeddingsMessage = "anthropic provider does not currently support embeddings in this library; use another provider"

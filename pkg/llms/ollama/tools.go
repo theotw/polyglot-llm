@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/logging"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/mcp"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/utils"
+	"github.com/theotw/polyglot-llm/pkg/logging"
+	"github.com/theotw/polyglot-llm/pkg/mcp"
+	"github.com/theotw/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/utils"
 )
 
 func buildAllTools(ctx context.Context, cfg model.GeneratorConfig) ([]model.Tool, func(), error) {

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Nephrolytics-ai/polyglot-llm/pkg/model"
+	"github.com/theotw/polyglot-llm/pkg/model"
 	openai "github.com/openai/openai-go/v3"
 	"github.com/stretchr/testify/suite"
 )
